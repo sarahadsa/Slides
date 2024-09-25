@@ -1,5 +1,5 @@
-# Projeto Criando Slides de Anime
-## Através deste projeto consegui trabalhar mais com o Javascript
+# Criando Slides de Anime
+## Aprimorando meu conhecimento em Javascript
 
 ### Ferramentas utilizadas:
 - Javascript
